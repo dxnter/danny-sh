@@ -14,7 +14,7 @@ const Terminal = () => (
       <span data-ty>Successfully installed personal-info</span>
       <span data-ty="input">node</span>
       <span data-ty="input" data-ty-prompt=">">
-        {"const personalInfo = require('personal-info)"}
+        {"const personalInfo = require('personal-info')"}
       </span>
       <span data-ty="input" data-ty-prompt=">">
         personalInfo.findByGithub('dxnter')
