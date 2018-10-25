@@ -14,10 +14,10 @@ const Terminal = () => (
       <span data-ty>Successfully installed personal-info</span>
       <span data-ty="input">node</span>
       <span data-ty="input" data-ty-prompt=">">
-        {"import { personalInfo } from 'personal-info'"}
+        {"const personalInfo = require('personal-info)"}
       </span>
       <span data-ty="input" data-ty-prompt=">">
-        personalInfo.findByGithub('dxnter');
+        personalInfo.findByGithub('dxnter')
       </span>
       <span data-ty>{'{'}</span>
       <span data-ty>{"    name: 'Danny Foster',"}</span>
