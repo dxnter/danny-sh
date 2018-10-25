@@ -24,24 +24,12 @@ const Terminal = () => (
       <span data-ty>{'    age: 21,'}</span>
       <span data-ty>
         {'    github: '}
-        <a
-          href="https://github.com/dxnter"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          'dxnter'
-        </a>
+        <a href="https://github.com/dxnter">'dxnter'</a>
         {','}
       </span>
       <span data-ty>
         {'    website: '}
-        <a
-          href="https://danfoster.io"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          'danfoster.io'
-        </a>
+        <a href="https://danfoster.io">'danfoster.io'</a>
       </span>
       <span data-ty>{'}'}</span>
     </div>
