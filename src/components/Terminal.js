@@ -27,16 +27,17 @@ class Terminal extends Component {
           </span>
           <span data-ty>{'{'}</span>
           <span data-ty>{"    name: 'Danny Foster',"}</span>
-          <span data-ty>{'    age: 21,'}</span>
           <span data-ty>
             {'    github: '}
             <a href="https://github.com/dxnter">'dxnter'</a>
             {','}
           </span>
           <span data-ty>
-            {'    website: '}
-            <a href="https://danfoster.io">'danfoster.io'</a>
+            {'    twitter: '}
+            <a href="https://twitter.com/tower">'tower'</a>
+            {','}
           </span>
+          <span data-ty>{"    discord: 'dxnter#1600',"}</span>
           <span data-ty>{'}'}</span>
         </div>
       </Draggable>
