@@ -28,6 +28,11 @@ class Terminal extends Component {
           <span data-ty>{'{'}</span>
           <span data-ty>{"    name: 'Danny Foster',"}</span>
           <span data-ty>
+            {'    blog: '}
+            <a href="https://danfoster.io">'danfoster.io'</a>
+            {','}
+          </span>
+          <span data-ty>
             {'    github: '}
             <a href="https://github.com/dxnter">'dxnter'</a>
             {','}
