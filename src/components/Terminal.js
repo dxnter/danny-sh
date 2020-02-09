@@ -29,17 +29,35 @@ class Terminal extends Component {
           <span data-ty>{"    name: 'Danny Foster',"}</span>
           <span data-ty>
             {'    blog: '}
-            <a href="https://danfoster.io">'danfoster.io'</a>
+            <a
+              href="https://danfoster.io"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              'danfoster.io'
+            </a>
             {','}
           </span>
           <span data-ty>
             {'    github: '}
-            <a href="https://github.com/dxnter">'dxnter'</a>
+            <a
+              href="https://github.com/dxnter"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              'dxnter'
+            </a>
             {','}
           </span>
           <span data-ty>
             {'    twitter: '}
-            <a href="https://twitter.com/tower">'tower'</a>
+            <a
+              href="https://twitter.com/tower"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              'tower'
+            </a>
             {','}
           </span>
           <span data-ty>{"    discord: 'dxnter#1600',"}</span>
