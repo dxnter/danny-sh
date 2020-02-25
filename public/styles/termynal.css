@@ -15,6 +15,8 @@
 [data-termynal] {
   width: 750px;
   max-width: 100%;
+  min-height: 585px;
+  height: auto !important;
   background: var(--color-bg);
   color: var(--color-text);
   font-size: 18px;
