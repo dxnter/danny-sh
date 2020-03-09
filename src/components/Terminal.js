@@ -26,6 +26,17 @@ class Terminal extends Component {
         <span data-ty>{'{'}</span>
         <span data-ty>{"    name: 'Danny Foster',"}</span>
         <span data-ty>
+          {'    linkedin: '}
+          <a
+            href="https://www.linkedin.com/in/dan-foster/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            'dan-foster'
+          </a>
+          {','}
+        </span>
+        <span data-ty>
           {'    blog: '}
           <a
             href="https://danfoster.io"
@@ -58,7 +69,6 @@ class Terminal extends Component {
           </a>
           {','}
         </span>
-        <span data-ty>{"    discord: 'dxnter#1600',"}</span>
         <span data-ty>{'}'}</span>
       </div>
     );
