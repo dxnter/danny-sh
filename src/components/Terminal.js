@@ -67,7 +67,6 @@ class Terminal extends Component {
           >
             'tower'
           </a>
-          {','}
         </span>
         <span data-ty>{'}'}</span>
       </div>
